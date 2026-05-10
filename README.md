@@ -4,7 +4,7 @@ A small unit converter built with Next.js (App Router), React 19, TypeScript, an
 
 ## Live demo
 
-_Add the Vercel URL here after deployment._
+https://unit-converter-ph3a6nto0-delta3311s-projects.vercel.app/
 
 ## Features
 
